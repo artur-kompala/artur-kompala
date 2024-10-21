@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Natours](https://github.com/artur-kompala/Natours)
+- 🔭 I’m currently working on KP-SUKCES
 
 - 🌱 I’m currently learning **React**
 
